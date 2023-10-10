@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Serious Game for A11Y-1.0";
 const contentToCache = [
     "Build/Serious Game.loader.js",
-    "Build/Serious Game.framework.js.br",
-    "Build/Serious Game.data.br",
-    "Build/Serious Game.wasm.br",
+    "Build/Serious Game.framework.js",
+    "Build/Serious Game.data",
+    "Build/Serious Game.wasm",
     "TemplateData/style.css"
 
 ];
